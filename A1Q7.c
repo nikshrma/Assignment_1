@@ -1,6 +1,6 @@
 // Objective is to find the Nth root
 #include <stdio.h>
-#include <math.h> //this header file consists of various maths function including the pow function we require for solving this question.
+#include <math.h> //this header file consists of various math functions including the pow function we require for solving this question.
 
 int main()
 {
