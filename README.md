@@ -9,7 +9,7 @@ Hi, if you're seeing this repository then you're most probably a friend of mine 
 All files in each repi will be named as
 > A1Q1
 
-Here the first number i.e. A***1***Q1 will denote the assignment number and the second number i.e. A1Q***1*** will denote the question number in that assignment.
+Here the first number i.e. A***1***Q01 will denote the assignment number and the second number i.e. A1Q***01*** will denote the question number in that assignment.
 
 ## 🤝 Contributing
 If you have improvements, suggestions, or alternative solutions, please feel free to open a pull request. Let’s make this resource as helpful as possible for everyone!
